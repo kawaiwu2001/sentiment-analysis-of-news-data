@@ -1,0 +1,2 @@
+trans.py 用于翻译文本
+new_data_test.json和new_data_train.json是翻译完成的训练集和测试集
